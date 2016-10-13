@@ -1,0 +1,67 @@
+IPAF version 1
+Ssef <
+G_adi_initComponents sid<
+DG_adi_sec_Init 
+36_
+37_
+DG_adi_init_drv_Rom 
+36_
+37_
+DG_adi_initpinmux 
+
+
+>>Sptr <
+G_adi_initComponents ptr<
+37_|3_
+36_|3_
+35_|
+34_|
+33_|
+32_|
+31_|3_
+30_|2_31_
+29_|30_
+28_|
+27_|
+26_|
+25_|
+24_|
+23_|
+22_|
+21_|
+20_|
+19_|
+18_|
+17_|
+16_|
+15_|
+14_|
+13_|
+12_|
+11_|
+10_|
+9_|
+8_|
+7_|
+6_|
+5_|
+4_24_20_15_12_10_6_|
+3_5_7_9_11_13_14_16_17_18_19_21_22_23_25_26_|8_
+2_|3_
+1_|
+0_|
+>>Smust <
+G_adi_initComponents ptb<
+G_adi_initpinmux t
+G_adi_init_drv_Rom 
+G_adi_sec_Init 
+>>Scnal <
+_adi_initComponents <
+_adi_initpinmux:r =0_
+_adi_init_drv_Rom:r ?
+_adi_sec_Init:r ?
+>>Sprpc <
+_adi_initComponents <
+_adi_init_drv_Rom:2 n
+_adi_init_drv_Rom:1 n
+>>
